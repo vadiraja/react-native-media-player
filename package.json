@@ -1,0 +1,29 @@
+{
+  "name": "react-native-media-streamer",
+  "version": "0.0.2",
+  "description": "React Native media player using existing video players",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Vadiraja A",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vadiraja/react-native-media-player.git"
+  },
+  "keywords": [
+    "react",
+    "native",
+    "react-native",
+    "media",
+    "streamline",
+    "stream",
+    "audio",
+    "video"
+  ],
+  "bugs": {
+    "url": "https://github.com/vadiraja/react-native-media-player/issues"
+  },
+  "homepage": "https://github.com/vadiraja/react-native-media-player#readme"
+}
