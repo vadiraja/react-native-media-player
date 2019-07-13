@@ -4,7 +4,8 @@
   "description": "React Native media player using existing video players",
   "main": "index.js",
   "scripts": {
-    "test": "mocha"
+    "test": "mocha",
+    "postchangelog": "cat package.json | grep '\"version\"' > VERSION"
   },
   "author": "Vadiraja A",
   "license": "ISC",
